@@ -1,0 +1,38 @@
+body {
+
+  font-family: 'Playfair Display SC', serif;
+  text-align: center;
+
+
+}
+
+.video-entry {
+  background-image: url('images/BESHARS.gif') no-repeat center center fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+
+}
+
+html {
+  padding: 3%;
+}
+
+h1 {
+  text-shadow: 33%;
+  color: red;
+  font-size: 100px;
+}
+
+h2{
+  font-size: 70px;
+  line-height: inherit;
+}
+
+#demo {
+  font-size: 120px;
+  text-align: center;
+  color: white;
+	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px red, 0 0 20px blue, 0 0 30px blue, 0 0 40px blue, 0 0 50px blue, 0 0 75px blue;
+	letter-spacing: 5px;
+	font: 80px;
